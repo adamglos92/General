@@ -1,14 +1,14 @@
-[0]
+["0-0.1"]
+julia = "0.6.2-0"
+
+["0-0.2.0"]
 Cairo = "0-0.5"
 Colors = "0"
 DataStructures = "0"
 ProgressMeter = "0"
 Requires = "0"
 
-["0-0.1"]
-julia = "0.6.2-0"
-
-["0.2-0"]
+["0.2.0"]
 ColorTypes = "0"
 Contour = "0"
 Hiccup = "0"
